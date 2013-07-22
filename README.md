@@ -1,4 +1,4 @@
 vilakudy.com
 ============
 
-My official website
+My own website
