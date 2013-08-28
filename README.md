@@ -1,4 +1,4 @@
-vilakudy.com
+vilakudy
 ============
 
-My own website
+Personal website layout
