@@ -1,4 +1,4 @@
 Personal-Page
 ============
 
-Personal website layout
+Personal website layout - Responsive
